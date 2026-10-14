@@ -8,7 +8,7 @@ problem-solving, and building practical projects.
 - 🌱 Currently learning Java, Spring Boot, and MySQL
 - 💻 Practicing Data Structures and Algorithms
 - 🚀 Building projects to strengthen my development skills
-- 📫 Email: mishra.harshit.in@gmail.com
+- 📫 Email: harshit22042005@gmail.com
 
 ---
 
